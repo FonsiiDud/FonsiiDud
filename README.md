@@ -1,49 +1,22 @@
-### Hi there 👋
-# Foobar
+## :sparkles:Welcome to My Profile!:sparkles:
 
-Foobar is a Python library for dealing with word pluralization.
+## :sunglasses: The Name's Fonso :sunglasses:
 
-## Installation
+Hi! Let me introduce myself, I am Alfonso Miguel Roldan, currently a 2nd Year :computer: BS Computer Science :computer: student at THE Ateneo de Manila University.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## :clipboard: About Me :clipboard:
 
-```bash
-pip install foobar
-```
+Heyo, I am your a-typical college student who has an interest in coding but is too lazy to jumpstart any project of his own. Data Science has been a particular interest of mine
+eversince delving into this field but I can't say that I am exeperienced to do anything with the sort. I am open to learn anything as especially if it peaks my interest!
 
-## Usage
+## 📫 Where to Reach Me 📫
+* [Linkdn](https://www.linkedin.com/in/alfonso-roldan-9700661ba/)
+* Discord: FonsiiDud#8641
 
-```python
-import foobar
+## :computer: Current Programming SkillSet :computer:
+- [x] Basic Java
+- [x] Basic Python
+- [x] Basic C
 
-# returns 'words'
-foobar.pluralize('word')
+## ✨Welcome to Join Any Projects!!!✨
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-<!--
-**FonsiiDud/FonsiiDud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
