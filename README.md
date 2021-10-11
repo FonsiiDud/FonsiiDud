@@ -13,7 +13,7 @@ Heyo, I am your a-typical college student who has an interest in coding but is t
 * [Linkdin](https://www.linkedin.com/in/alfonso-roldan-9700661ba/)
 * Discord: FonsiiDud#8641
 
-## :computer: Current Programming SkillSet :computer:
+## :computer: Current Programming Skill Set :computer:
 - [x] Basic Java
 - [x] Basic Python
 - [x] Basic C
