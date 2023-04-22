@@ -2,7 +2,7 @@
 
 ## :sunglasses: The Name's Fonso :sunglasses:
 
-Hi! Let me introduce myself, I am Alfonso Miguel Roldan, currently a 2nd Year :computer: BS Computer Science :computer: student at THE Ateneo de Manila University.
+Hi! Let me introduce myself, I am Alfonso Miguel Roldan, currently a 3rd Year :computer: BS Computer Science :computer: student at the Ateneo de Manila University.
 
 ## :clipboard: About Me :clipboard:
 
@@ -14,9 +14,10 @@ Heyo, I am your a-typical college student who has an interest in coding. Data Sc
 * Discord: FonsiiDud#8641
 
 ## :computer: Current Programming Skill Set :computer:
-- [x] Basic Java
-- [x] Basic Python
-- [x] Basic C
+- [x] Python
+- [x] Machine Learning Models (Mostly CNNs for Image Recognition and Segmentation)
+- [x] Django Backend
+- [x] SQL Databases
 
 ## ✨Welcome to Join Any Projects!!!✨
 
