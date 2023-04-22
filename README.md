@@ -6,7 +6,7 @@ Hi! Let me introduce myself, I am Alfonso Miguel Roldan, currently a 2nd Year :c
 
 ## :clipboard: About Me :clipboard:
 
-Heyo, I am your a-typical college student who has an interest in coding but is too lazy to jumpstart any project of his own. Data Science and any Back-end Development has been a particular interest of mine ever since delving into this field but I can't say that I am experienced enough to do anything with the sort on my own. I am open to learn anything as especially if it peaks my interest!
+Heyo, I am your a-typical college student who has an interest in coding. Data Science and any Back-end Development has been a particular interest of mine ever since delving into this field but I can't say that I am experienced enough to do anything with the sort on my own. I am open to learn anything as especially if it peaks my interest!
 
 ## 📫 Where to Reach Me 📫
 * Email: roldanalfonso6@gmail.com
